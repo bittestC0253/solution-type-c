@@ -6,7 +6,7 @@ public class MyStack {
 
 	public MyStack( int size ) {
 	}
-	
+	 
 	
 	public void push(String item) {
 	}

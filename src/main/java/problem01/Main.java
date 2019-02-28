@@ -49,7 +49,6 @@ public class Main {
 		}
 		else if ( answer == randomNumber) {
 			count++;
-			
 		}
 		return true;
 	}

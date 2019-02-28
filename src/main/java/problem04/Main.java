@@ -8,7 +8,7 @@ public class Main {
                  
                 System.out.println(i + " * " + j + " = " + i * j);    
             }             
-            System.out.println();
+            System.out.println(); 
         }
 	}
 }
